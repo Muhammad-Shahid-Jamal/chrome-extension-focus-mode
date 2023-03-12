@@ -1,0 +1,6 @@
+body> :is(.header-main__wrapper,.header-main__slider,footer,.shell),#main :is(.sidebar_wrapper, .rightBar),#_GFG_ABP_Incontent_728x90{
+    display: none;
+}
+#main .article-page_flex{
+    justify-content: center;
+}
